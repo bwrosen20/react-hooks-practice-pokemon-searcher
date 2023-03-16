@@ -1,6 +1,14 @@
 {
   "pokemon": [
     {
+      "name": "bulbasaur",
+      "hp": "40",
+      "sprites": [],
+      "frontUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+      "backUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png",
+      "id": 1
+    },
+    {
       "id": 2,
       "name": "ivysaur",
       "hp": 60,
